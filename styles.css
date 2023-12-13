@@ -1,0 +1,25 @@
+*{
+    border: 2px red solid;
+}
+.header {
+    display:flex;
+    justify-content: center;
+}
+
+.nav-bar li {
+    display:flex;
+    justify-content: center;
+    word-spacing: 30px;
+}
+
+.li {
+    justify-content: center;
+}
+
+.html-table{
+    background-color:blueviolet;
+}
+
+.css-table{
+
+}
